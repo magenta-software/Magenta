@@ -1,4 +1,7 @@
 /* General */
+
+background: rgb(96,0,81);
+background: linear-gradient(90deg, rgba(96,0,81,1) 0%, rgba(121,9,98,1) 26%, rgba(255,0,95,1) 100%);
 body {
   margin: 0;
   padding: 0;
